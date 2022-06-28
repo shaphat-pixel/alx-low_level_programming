@@ -1,2 +1,1 @@
-# alx-low_level_programming
-programming in c language
+Working with arrays in C
