@@ -23,3 +23,4 @@ void *malloc_checked(unsigned int b)
 /* the function return a pointer */
 	return (pointer);
 }
+
