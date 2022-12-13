@@ -1,1 +1,1 @@
-Working with arrays in C
+Readme file for File I/O
